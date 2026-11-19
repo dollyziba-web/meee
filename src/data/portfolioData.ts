@@ -89,17 +89,17 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
   },
   {
     id: 'zinat-sneaker-commercial',
-    title: 'ZINAT STRIDE — AI Sneaker Commercial Spec',
+    title: 'ZINAT DOLLY — AI Sneaker Commercial Spec',
     category: 'FOOTWEAR',
-    client: 'Apex Kinetix Footwear',
+    client: 'DOLLY Footwear Spec',
     duration: '0:15',
     year: '2026',
-    videoSrc: '/assets/videos/ziba-sneaker-commercial.mp4',
-    thumbnailSrc: ASSET_INVENTORY['sneaker_commercial_thumb'] ? ASSET_INVENTORY['sneaker_commercial_thumb'].url : 'https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=1400&q=85',
+    videoSrc: '/assets/videos/zinat-dolly-sneaker.mp4',
+    thumbnailSrc: '/assets/videos/zinat-dolly-sneaker.mp4',
     aspectRatio: '16/9',
     featured: true,
-    description: 'Dynamic commercial production engineered for next-generation performance footwear. High-velocity camera arcs, aerodynamic textile synthesis, and hyper-kinetic sound design.',
-    tags: ['Sneaker Spec', 'AI Commercial', 'Footwear Motion', 'Hyper-Kinetic', 'Studio Original']
+    description: 'Official commercial production engineered for the signature DOLLY sneaker. Hyper-clean white leather reflections, marble pedestal display, and broadcast-grade product cinematography.',
+    tags: ['DOLLY Sneaker', 'Footwear AI', 'Commercial Motion', 'Luxury Footwear', 'Studio Original']
   },
   {
     id: 'zinat-lamborghini-commercial',
@@ -108,12 +108,12 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     client: 'Lamborghini Supercar Spec',
     duration: '0:15',
     year: '2026',
-    videoSrc: '/assets/videos/ziba-lamborghini-commercial.mp4',
-    thumbnailSrc: ASSET_INVENTORY['spotlight_automotive'].url,
+    videoSrc: '/assets/videos/zinat-lamborghini-commercial.mp4',
+    thumbnailSrc: '/assets/videos/zinat-lamborghini-commercial.mp4',
     aspectRatio: '16/9',
     featured: true,
-    description: 'Cinematic AI automotive commercial capturing nocturnal aerodynamic flows, razor-sharp metallic bodywork reflections, and instant hypercar acceleration across neon superhighways.',
-    tags: ['Automotive AI', 'Lamborghini Spec', 'Virtual Production', 'Raytracing', 'Hypercar Sound']
+    description: 'Cinematic AI automotive commercial capturing the red Lamborghini supercar in a luxury studio showroom, featuring razor-sharp metallic bodywork reflections and studio stage lighting.',
+    tags: ['Automotive AI', 'Lamborghini Spec', 'Virtual Production', 'Raytracing', 'Hypercar Cinema']
   },
   {
     id: 'zinat-genesis-commercial',

@@ -159,7 +159,7 @@ export const SpotlightSection: React.FC<SpotlightSectionProps> = ({ onOpenVideo 
                       )}
                       {project.id === 'zinat-sneaker-commercial' && (
                         <span className="px-2.5 py-1 rounded-full bg-[#8B5CF6] text-white text-[10px] font-mono font-bold tracking-wider uppercase shadow-[0_0_12px_rgba(139,92,246,0.8)] animate-pulse">
-                          🔥 SNEAKER SPEC
+                          🔥 DOLLY SNEAKER SPEC
                         </span>
                       )}
                       {project.id === 'zinat-lamborghini-commercial' && (
