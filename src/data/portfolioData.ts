@@ -116,18 +116,18 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     tags: ['Automotive AI', 'Lamborghini Spec', 'Virtual Production', 'Raytracing', 'Hypercar Cinema']
   },
   {
-    id: 'zinat-genesis-commercial',
-    title: 'ZINAT GENESIS — The AI Creative Frontier',
+    id: 'zinat-wristwatch-commercial',
+    title: 'ZINAT VELOCITY — Luxury Wristwatch Commercial',
     category: 'PRODUCT COMMERCIALS',
-    client: 'ZINAT Studio Original',
+    client: 'VELOCITY Horology Spec',
     duration: '0:15',
     year: '2026',
-    videoSrc: '/assets/videos/ziba-ai-commercial-1.mp4',
-    thumbnailSrc: ASSET_INVENTORY['spotlight_user_video'].url,
+    videoSrc: '/assets/videos/zinat-wristwatch-commercial.mp4',
+    thumbnailSrc: '/assets/videos/zinat-wristwatch-commercial.mp4',
     aspectRatio: '16/9',
     featured: true,
-    description: 'Our proprietary studio AI commercial showcasing the boundary between synthetic motion, cinematic storytelling, and photorealistic rendering.',
-    tags: ['AI Direction', 'Neural Rendering', 'Cinematic Sound', 'Studio Original']
+    description: 'High-precision luxury timepiece commercial featuring the VELOCITY chronograph with brushed steel bracelet, tachymeter bezel, atmospheric smoke effects, and cinematic macro lighting.',
+    tags: ['Luxury Timepiece', 'Wristwatch Commercial', 'Macro Cinematography', 'Product Lighting', 'Studio Original']
   },
   {
     id: 'zinat-chrono-velocity',

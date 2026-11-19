@@ -167,6 +167,11 @@ export const SpotlightSection: React.FC<SpotlightSectionProps> = ({ onOpenVideo 
                           🔥 LAMBORGHINI SPEC
                         </span>
                       )}
+                      {project.id === 'zinat-wristwatch-commercial' && (
+                        <span className="px-2.5 py-1 rounded-full bg-[#8B5CF6] text-white text-[10px] font-mono font-bold tracking-wider uppercase shadow-[0_0_12px_rgba(139,92,246,0.8)] animate-pulse">
+                          🔥 LUXURY TIMEPIECE
+                        </span>
+                      )}
                     </div>
                     <span className="px-2.5 py-1 rounded-full bg-black/75 backdrop-blur-md border border-white/15 text-[10px] font-mono text-[#F5F3FA]">
                       {project.duration}
